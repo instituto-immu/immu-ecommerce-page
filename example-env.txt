@@ -1,0 +1,3 @@
+PUBLIC_API_URL=https://api.dooki.com.br/v2/immu-loja-online
+API_SECRET_KEY= (pegar no usuario do yampi)
+USER_TOKEN= (pegar no usuario do yampi)

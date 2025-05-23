@@ -96,6 +96,9 @@ git push origin minha-feature
 5. Abra um Pull Request.
 
 ## Licença
+
+### Recursos do projeto:
+https://drive.google.com/drive/folders/1F_zNwG5Z343YFNrTOfuzs-iVRlrf0wG9
 Este projeto está licenciado sob a licença MIT.
 
 ---

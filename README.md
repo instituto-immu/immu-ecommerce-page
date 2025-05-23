@@ -96,9 +96,9 @@ git push origin minha-feature
 5. Abra um Pull Request.
 
 ## Licença
-Este projeto está licenciado sob a licença MIT.
+Todos os direitos reservados a IMMU - Instituto Manancial Mãos Unidas
 ---
-Desenvolvido pelo Instituto IMMU em parceria com Cláudio Soares (https://github.com/claudiojas).
+Desenvolvido pelo Instituto IMMU.
 
 ### Recursos do projeto:
 https://drive.google.com/drive/folders/1F_zNwG5Z343YFNrTOfuzs-iVRlrf0wG9
